@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Bindu. Welcome to my github profile. This profile contains some of my humble projects. New to open-source world. Mostly I code in C++ and Python languages, but I am part of a niche domain called EDA. 
+I am Bindu. Welcome to my github profile. This profile contains some of my humble projects. New to open-source world. Mostly I code in C++ and Python languages and I am part of a niche domain called EDA. 
 
 ### 🤝 Connect with me:
 
